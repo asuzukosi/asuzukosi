@@ -8,10 +8,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on backend software engineering using python and golang
-- 🌱 I’m primary interested in backend engineering and building tools and technologies for buing cloud native applications
+- 🔭 I’m currently working on machine learning systems engineering using python and golang
+- 🌱 I’m primary interested in machine learning systems engineering and building tools and technologies for building tools and products that enable machine learning models reach users faster
 - 👯 I’m looking to collaborate on various projects on my repository
-- 🤔 I’m looking for help with interesting projects that involve building amazing cloud native applications with python and golang
-- 💬 Ask me about anything that involves golang, python, web development, cloud native computing, backend software engineering (also maybe a little machine leanring)
-- 📫 How to reach me: email: keloasuzu@yahoo.com phone: +234 908 250 7242
+- 🤔 I’m looking for help with interesting projects that involve building machine learning engineering applications with python and golang
+- 💬 Ask me about anything that involves golang, python, deep learning, systems engineerning, machine learning operations.
+- 📫 How to reach me: email: keloasuzu@yahoo.com phone: +44 7541930261
 - 😄 Pronouns: He/Him
