@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-I’m currently working on autonomous agents and emboddied intelligence using python, c++, c, arm assembly
+I’m currently working on ai infra and emboddied intelligence using python, c++, c, arm assembly
 I’m looking to collaborate on various projects on my repository
 .AI, Robotics and Quantum computing keep me up at night
 
