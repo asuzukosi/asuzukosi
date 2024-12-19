@@ -7,4 +7,4 @@ kosi asuzu
 
 Here are some ideas to get you started:
 -->
-ai infra and emboddied intelligence
+ai infra and emboddied ai
